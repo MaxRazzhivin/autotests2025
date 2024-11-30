@@ -1,1 +1,1 @@
-# autotests2025
+Hello, Hexlet!
